@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.carlgarpel.camera" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Camera</name>
+<widget id="com.carlgarpel.camera2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Camera2</name>
     <description>
-        Explorando la cámara.
+        Explorando la cámara. 
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Carlos G.
     </author>
     <content src="index.html" />
     <access origin="*" />
